@@ -145,7 +145,7 @@ When modifying QMS documents:
 2. **Clone your fork**:
    ```bash
    git clone git@github.com:YOUR_USERNAME/qara-pulse-eqms.git
-   cd pulse-eqms-starter
+   cd qara-pulse-eqms
    ```
 3. **Add upstream remote**:
    ```bash
