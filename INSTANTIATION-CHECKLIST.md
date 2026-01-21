@@ -14,11 +14,11 @@ This template provides a structured foundation for a Quality Management System (
 
 Replace GitHub-specific placeholders:
 
-- **{{GITHUB_TEAM_OR_USERNAME}}** → Your GitHub team name or username for CODEOWNERS
+- **aguerot** → Your GitHub team name or username for CODEOWNERS
   - Location: `.github/CODEOWNERS`
 
 ### Steps:
-1. Update `.github/CODEOWNERS` file, replacing `@{{GITHUB_TEAM_OR_USERNAME}}` with your actual GitHub team or username
+1. Update `.github/CODEOWNERS` file, replacing `@aguerot` with your actual GitHub team or username
 2. Configure branch protection rules in GitHub repository settings (recommended: require pull request reviews, require CODEOWNERS approval)
 3. Verify CODEOWNERS file is properly recognized by GitHub
 
